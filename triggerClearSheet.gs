@@ -1,3 +1,5 @@
+// Function to clear the Response Collection Sheet at a specified time
+
 function tcs() {
   
   //delete the old triggers
